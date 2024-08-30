@@ -1,7 +1,17 @@
 #include <stdio.h>
 
+
+suma(){
+	int a, b;
+	suma= a-b
+	return suma;
+	
+}
+
 void main(void) {
 	printf("Hola, mundo!");
 	return 0;
 	printf("Mi primer programa")
+	printf("La suma es: "%d, suma);
+	
 }
