@@ -3,7 +3,7 @@
 
 suma(){
 	int a, b;
-	suma= a-b
+	int suma= a+b;
 	return suma;
 	
 }
@@ -11,7 +11,7 @@ suma(){
 void main(void) {
 	printf("Hola, mundo!");
 	return 0;
-	printf("Mi primer programa")
-	printf("La suma es: "%d, suma);
+	printf("Mi primer programa");
+	printf("La suma es: %d", suma);
 	
 }
