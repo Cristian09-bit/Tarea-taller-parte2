@@ -4,8 +4,13 @@
 suma(){
 	int a, b;
 	int suma= a+b;
+
 	return suma;
 	
+}
+void producto() {
+int p,m;
+int mult=p*m;
 }
 
 void main(void) {
@@ -13,5 +18,6 @@ void main(void) {
 	return 0;
 	printf("Mi primer programa");
 	printf("La suma es: %d", suma);
+	printf("El producto de %d y %d es: %d", mult);
 	
 }
