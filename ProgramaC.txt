@@ -8,6 +8,8 @@ suma(){
 	return suma;
 	
 }
+
+//La multiplicación esta correcta
 void producto() {
 int p,m;
 int mult=p*m;
